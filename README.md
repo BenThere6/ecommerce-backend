@@ -41,9 +41,11 @@ Launch the server with npm start.
 The server will be at http://localhost:3001.<br>
 Use the API endpoints as described in the project's README.
 
+[Installation Video](https://drive.google.com/file/d/1RGa0pRgBhjDkmG5EunUxdyhw00gcCNkr/view)
+
 ## Usage
 
-[Instruction Video](https://drive.google.com/file/d/1a3KtZXPKh4Gi679KsPR1310UxlcLi3ey/view)
+[Usage Video](https://drive.google.com/file/d/1a3KtZXPKh4Gi679KsPR1310UxlcLi3ey/view)
 
 ## Endpoints
 
