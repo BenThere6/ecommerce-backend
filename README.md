@@ -125,7 +125,7 @@ I am here to assist you with any questions or feedback you may have. Thank you f
 
 ## Credits
 
-The foundational codebase was sourced from the following repository: [insert link here]. This repository served as a starting point for the project, providing valuable insights and inspiration that contributed to the development process. We express our gratitude for the resources made available by the authors of the original codebase.
+The foundational codebase was sourced from the following repository: [fantastic-umbrella](https://github.com/coding-boot-camp/fantastic-umbrella). This repository served as a starting point for the project, providing valuable insights and inspiration that contributed to the development process. We express our gratitude for the resources made available by the authors of the original codebase.
 
 ## License 
 
